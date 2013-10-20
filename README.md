@@ -1,4 +1,9 @@
-jp
-==
+# notatki z labek
+```sh
+mkdir katalog1
+```
 
-języki programowania
+```c
+int main ()
+return 0 ;
+```
